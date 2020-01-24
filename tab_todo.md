@@ -9,7 +9,7 @@ tags: cyberdefensematrix
 
 ---
 
-#Things To Do
+# Things To Do
 
 - Document structure of the Cyber Defense Matrix
 - Map vendors to the Cyber Defense Matrix
