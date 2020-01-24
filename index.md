@@ -31,7 +31,12 @@ The basic construct of the Cyber Defense Matrix starts with two dimensions. The 
 
 The second dimension captures five assets classes that we try to secure:
 
-<table><th>DEVICES</th></tr><th>APPLICATIONS</th></tr><th>NETWORKS</th></tr><th>DATA</th></tr><th>USERS</th></table>
+|DEVICES|
+|:---:|
+|**APPLICATIONS**|
+|**NETWORKS**|
+|**DATA**|
+|**USERS**|
 
 When these two dimensions are put into a grid, we arrive at a five-by-five matrix that we call the “Cyber Defense Matrix.”
 
