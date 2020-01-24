@@ -37,7 +37,7 @@ The second dimension captures five assets classes that we try to secure:
 
 When these two dimensions are put into a grid, we arrive at with a five-by-five matrix that we call the “Cyber Defense Matrix.”
 
-![Cyber Defense Matrix](/assets/images/CyberDefenseMatrix.png "Cyber Defense Matrix")
+![Cyber Defense Matrix](assets/images/CyberDefenseMatrix.png "Cyber Defense Matrix")
 
 There is one more important piece of this matrix.  At bottom of the grid, we show a continuum that characterizes the degree of dependency on technology, people, and process as we progress through the five operational functions of the NIST Cybersecurity Framework.  TECHNOLOGY plays a much greater role in IDENTIFY and PROTECT. As we move to DETECT, RESPOND, and RECOVER, our dependency on TECHNOLOGY diminishes and our dependency on PEOPLE grows. Throughout all five operational functions, there's a consistent level of dependency on PROCESS. This continuum helps us understand where we might have imbalances in our reliance on PEOPLE, PROCESS, and TECHNOLOGY when trying to tackle our cybersecurity challenges.
 
