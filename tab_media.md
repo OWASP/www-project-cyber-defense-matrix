@@ -8,9 +8,9 @@ tags: powerpoint media
 
 ---
 
-#Presentations and Other Media
+# Presentations and Other Media
 
-##Slides
+## Slides
 [Cyber Defense Matrix Presentation at RSA Conference 2016](https://bit.ly/cyberdefensematrix)
 
 - Slides from Sounil Yu's original presentation at RSA Conference 2016 providing 11 use cases of the Cyber Defense Matrix.
@@ -20,7 +20,7 @@ tags: powerpoint media
 - Slides from Sounil Yu's follow up presentation at RSA Conference 2019 providing 9 more use cases of the Cyber Defense Matrix.
 
 
-##Videos
+## Videos
 
 [Measuring and Managing Your Security Program Using the Cyber Defense Matrix](https://www.youtube.com/watch?v=LE-ds7LVk5o&t=3808s)
 
@@ -39,7 +39,7 @@ tags: powerpoint media
 - A video of Guillaume Ross presenting a Cyber Portfolio Management use case of the Cyber Defense Matrix, showing how to layout where money is spent and what effect it may have. This approach can help improve communications with executive management, avoid blind-spots, and improve our own understanding of our security program. This talk focuses on the practical aspects of building a defense portfolio.
 
 
-##Audio / Podcasts
+## Audio / Podcasts
 [CISO Series Vendor Relationship Podcast](https://cisoseries.com/mapping-unsolvable-problems-to-unattainable-solutions/)
 
 - A 30 min interview about the Cyber Defense Matrix and its use cases.
