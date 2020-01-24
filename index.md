@@ -1,7 +1,7 @@
 ---
 
 layout: col-sidebar
-title: Cyber Defense Matrix
+title: OWASP Cyber Defense Matrix
 tags: cyberdefensematrix
 level: 2
 type: documentation
@@ -27,17 +27,11 @@ Although the Cyber Defense Matrix was initially created to help organize securit
 
 The basic construct of the Cyber Defense Matrix starts with two dimensions. The first dimension captures the five operational functions of the NIST Cybersecurity Framework:
 
-| IDENTIFY | PROTECT | DETECT | RESPOND | RECOVER |
-|----------|---------|--------|---------|---------|
+<table><th>IDENTIFY</th><th>PROTECT</th><th>DETECT</th><th>RESPOND</th><th>RECOVER</th></table>
 
 The second dimension captures five assets classes that we try to secure:
 
-| DEVICES |
-|:---:|
-| **APPLICATIONS** |
-| **NETWORKS** |
-| **DATA** |
-| **USERS** |
+<table><th>DEVICES</th></tr><th>APPLICATIONS</th></tr><th>NETWORKS</th></tr><th>DATA</th></tr><th>USERS</th></table>
 
 When these two dimensions are put into a grid, we arrive at a five-by-five matrix that we call the “Cyber Defense Matrix.”
 
@@ -50,6 +44,7 @@ We believe that this matrix is a realistic model describes a broad range of cybe
 If you discover a new use of the Cyber Defense Matrix, we would love to hear about it. Likewise, if you find a problem with the matrix in that it doesn't seem to properly describe something that we do in cybersecurity, please point that out, and we'll either adjust the matrix or clarify how that perceived discrepancy can be addressed or explained through the matrix.
 
 # How can I participate in this project?
+
 Everyone is invited to collaborate on this project. Contact the [Project Leaders](leaders.md "Project Leaders"). The project needs different skills and expertise and different times during its development. Currently, we are looking for help in the following areas:
 
 - Documenting new use cases

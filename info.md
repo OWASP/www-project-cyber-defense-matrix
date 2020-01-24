@@ -2,7 +2,7 @@
 
 ### Project Information
 
-* <i class="fas fa-incubator" style="color:#233e81;"></i>Incubator Project
+* <i class="fas fa-inc" style="color:#233e81;"></i>Incubator Project
 
 ### Classification
 
@@ -12,15 +12,15 @@
 
 ### Audience
 
-* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builders</span> 
-* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defenders</span>
+* <i class="fas fa-toolbox" style="color:#233e81;"></i> Builders
+* <i class="fas fa-shield-alt" style="color:#233e81;"></i> Defenders
 
 [![Builders][builders-logo]][builders]
 [![Defenders][defenders-logo]][defenders]
 
 ### Social Media
 
-* [Twitter](https://twitter.com/cyberdefmatrix)
+* [![Twitter Follow](https://img.shields.io/twitter/follow/cyberdefmatrix?label=Follow)](https://twitter.com/cyberdefmatrix)
 * [LinkedIn](https://www.linkedin.com/company/cyber-defense-matrix)
 
 [inc-proj]: https://www.owasp.org/index.php/OWASP_Project_Stages#tab=Incubator_Projects
