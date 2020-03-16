@@ -19,8 +19,15 @@ tags: cyberdefensematrix
 
 - Slides from Sounil Yu's follow up presentation at RSA Conference 2019 providing 9 more use cases of the Cyber Defense Matrix.
 
+[Leveraging Four Types of Awareness to Secure Your AWS Environment](https://pages.awscloud.com/rs/112-TZM-766/images/How-to-prioritize-security-controls-for-situational-awareness-in-AWS-Slides.pdf)
+
+- Slides from Sounil Yu's March 2020 webinar on How to Increase Situational Awareness Using the Cyber Defense Matrix
 
 ## Videos
+
+[Leveraging Four Types of Awareness to Secure Your AWS Environment](https://pages.awscloud.com/awsmp-sme-sec-splunk-CDM-ty.html)
+
+- Video of Sounil Yu's March 2020 webinar on How to Increase Situational Awareness Using the Cyber Defense Matrix
 
 [Measuring and Managing Your Security Program Using the Cyber Defense Matrix](https://www.youtube.com/watch?v=LE-ds7LVk5o&t=3808s)
 

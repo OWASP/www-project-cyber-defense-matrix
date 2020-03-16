@@ -4,7 +4,7 @@ Imagine going into a grocery store to shop for Thanksgiving dinner, but instead 
 
 The cybersecurity vendor marketplace is like this disorganized grocery store. A proof of this assertion can be seen by looking at the vendor hall at any major security conference. The cacophony of sounds from vendors hawking their wares, the confusing language of the vendor’s marketecture, and the lack of any semblance of organization (aside from biggest to smallest) does not help buyers understand what they need or where to find it.
 
-Because the cybersecurity community does not use consistent terminology to describe what we need, there is much confusion about what many vendor products actually do. Instead of a clear articulation of a product's capabilities, we are bombarded with overused, trendy jargon that usually leaves us wondering if the product can really solve any of our woes. Some organizations even organize themselves according to the jargon. We need to stop letting marketing pitches dictate our terminology and not lose sight of the more bland descriptors that actually tell us what something does.
+Because the cybersecurity community does not use consistent terminology to describe what we need, there is much confusion about what many vendor products actually do. Instead of a clear articulation of a product's capabilities, we are bombarded with overused, trendy jargon that usually leaves us wondering if the product can really solve any of our problems. Some security teams even organize themselves according to the jargon. We need to stop letting marketing pitches dictate our terminology and not lose sight of the more bland descriptors that actually tell us what something does.
 
 The Cyber Defense Matrix helps us understand what we need organized through a logical construct so that when we go into the security vendor marketplace, we can quickly discern what products solve what problems and be informed on what is the core function of a given product. In addition, the Cyber Defense Matrix provides a mechanism to ensure that we have capabilities across the entire spectrum of options to help secure our environments.
 
@@ -40,8 +40,9 @@ If you discover a new use of the Cyber Defense Matrix, we would love to hear abo
 Everyone is invited to collaborate on this project. Contact the [Project Leaders](leaders.md "Project Leaders"). The project needs different skills and expertise and different times during its development. Currently, we are looking for help in the following areas:
 
 - Documenting new use cases
-- Creating a system to capture everything that is mapped to the Cyber Defense Matrix. This includes:
+- Developing a website / system to capture everything that is mapped to the Cyber Defense Matrix. This includes:
 	- Mapping of vendors
 	- Mapping of NIST NICE NCWF skillsets
 	- Mapping of measurements and metrics
+	- Security design patterns
 	
