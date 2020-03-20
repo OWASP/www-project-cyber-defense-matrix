@@ -39,7 +39,7 @@ tags: cyberdefensematrix
 
 [Art into Science: The Cyber Defense Matrix: A Scientific Model for Cybersecurity](https://www.youtube.com/watch?v=ngp-WkXs4mc)
 
-- A video of Sounil Yu presenting a select set of use cases at the 2017 Art into Science Conference. This talk is 
+- A video of Sounil Yu presenting a select set of use cases at the 2017 Art into Science Conference. 
 
 [Art into Science: Cyber Portfolio Management Using the Cyber Defense Matrix](https://www.youtube.com/watch?v=C6S-WWhmwfg)
 
@@ -47,10 +47,15 @@ tags: cyberdefensematrix
 
 
 ## Audio / Podcasts
-[CISO Series Vendor Relationship Podcast](https://cisoseries.com/mapping-unsolvable-problems-to-unattainable-solutions/)
+[Security Conversations with Ryan Naraine](https://securityconversations.fireside.fm/sounil-yu-cyber-defense-matrix)
 
-- A 30 min interview about the Cyber Defense Matrix and its use cases.
+- An interview with Ryan Naraine and Sounil Yu, explaining why the Cyber Defense Matrix framework was created and how organizations are using it to drive visibility and security decisions in multiple places. We discuss securing "cattle vs pets," the next era of security innovation, and the increasing security poverty line that hurts small- and medium-sized businesses. (March 17, 2020)
 
 [Defense in Depth: Cyber Defense Matrix Podcast](https://cisoseries.com/defense-in-depth-cyber-defense-matrix/)
 
-- A deeper 30 min interview about the Cyber Defense Matrix and its use cases.
+- A deeper 30 min interview with Allan Alford and Sounil Yu about the Cyber Defense Matrix and its use cases (October 17, 2019).
+
+[CISO Series Vendor Relationship Podcast](https://cisoseries.com/mapping-unsolvable-problems-to-unattainable-solutions/)
+
+- A 30 min interview with David Sparks, Mike Johnson, and Sounil Yu about the Cyber Defense Matrix and its use cases (October 1, 2019).
+
