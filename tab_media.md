@@ -23,11 +23,20 @@ tags: cyberdefensematrix
 
 - Slides from Sounil Yu's March 2020 webinar on How to Increase Situational Awareness Using the Cyber Defense Matrix
 
+[Managing the Security of Your Pets and Cattle in the Cloud](https://pages.awscloud.com/rs/112-TZM-766/images/How-to-prioritize-security-controls-for-sensitive-AWS-assets_%20Slides.pdf)
+
+- Slides from Sounil Yu's June 2020 webinar on understanding Cloud Security capabilities through the Cyber Defense Matrix
+
+
 ## Videos
 
 [Leveraging Four Types of Awareness to Secure Your AWS Environment](https://pages.awscloud.com/awsmp-sme-sec-splunk-CDM-ty.html)
 
 - Video of Sounil Yu's March 2020 webinar on How to Increase Situational Awareness Using the Cyber Defense Matrix
+
+[Managing the Security of Your Pets and Cattle in the Cloud](https://pages.awscloud.com/awsmp-sme-sec-TrendMicro-PrioritizeSecurityControls-ty.html)
+
+- Video of Sounil Yu's June 2020 webinar on understanding Cloud Security capabilities through the Cyber Defense Matrix
 
 [Measuring and Managing Your Security Program Using the Cyber Defense Matrix](https://www.youtube.com/watch?v=LE-ds7LVk5o&t=3808s)
 
