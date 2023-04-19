@@ -1,5 +1,7 @@
 # Introduction to the Cyber Defense Matrix
 
+This Project has beed archived. Content remains for historical purposes.
+
 Imagine going into a grocery store to shop for Thanksgiving dinner, but instead of seeing nice, orderly aisles, you see a massive pile of food in the middle of the grocery store. Finding the ingredients that you need to make dinner is going to be extremely hard because there’s no organizational system helping you understand where things are. The disorganization makes it very difficult to find what you need and compare competing products.
 
 The cybersecurity vendor marketplace is like this disorganized grocery store. A proof of this assertion can be seen by looking at the vendor hall at any major security conference. The cacophony of sounds from vendors hawking their wares, the confusing language of the vendor’s marketecture, and the lack of any semblance of organization (aside from biggest to smallest) does not help buyers understand what they need or where to find it.
